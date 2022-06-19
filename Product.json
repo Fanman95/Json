@@ -1,23 +1,5 @@
 [
     {
-        "id": 0,
-        "productName": "",
-        "character": "",
-        "workTitle": "",
-        "price": 0,
-        "category": "",
-        "releaseDate": "",
-        "preOrderLastDate": "",
-        "specification": "",
-        "factory": "",
-        "distributor": "",
-        "image": "",
-        "website": "",
-        "storage": "",
-        "preOrder": true,
-        "description": ""
-    },
-    {
         "id": 1,
         "productName": "ねんどろいど 盾の勇者（再販）",
         "character": "ねんどろいど",
